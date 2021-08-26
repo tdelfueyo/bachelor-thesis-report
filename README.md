@@ -10,7 +10,7 @@ This document includes an extensive research work on multiple network protocols.
 
 •	Set the guidelines for the assurance of the corporate network.
 
-•	Implementation of a tool which detects a bad configuration or a possible network attack through any of the previously mentioned protocols. To do this, a sniffer is created with the aid of Scapy tool.
+•	Implementation of a tool which detects a wrong configuration or a possible network attack through any of the previously mentioned protocols. To do this, a sniffer is created with the aid of Scapy tool.
 
 •	In case of detection of any risk in the network, in order to speed up the response, the tool sends immediately to the administrator an SNMP trap to the server IP indicated in the GUI.
 
